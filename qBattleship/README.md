@@ -1,4 +1,4 @@
-#Cheat at Battleship
+# Cheat at Battleship
 
 ![Battleship board game](battleship.jpg)
 
@@ -6,10 +6,10 @@
 
 Rules: https://en.wikipedia.org/wiki/Battleship_(game)
 
-##Techniques
+## Techniques
 - Random Guessing
 - Guess near other hits
 
-##Solution
+## Solution
 
 
